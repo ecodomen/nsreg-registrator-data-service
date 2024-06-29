@@ -1,0 +1,1 @@
+# nsreg-registrator-data-service
